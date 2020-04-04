@@ -1,0 +1,25 @@
+body{
+	margin: 0;	
+	background-color: black;
+	font-family: 'Oswald', sans-serif;
+	color: white
+}
+
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 5px 5px 5px;
+}
+
+footer{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 5px 5px 5px;
+}
+/*use h1, h2 comma to select more than one element*//
